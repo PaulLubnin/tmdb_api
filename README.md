@@ -1,4 +1,18 @@
-# Пакет скриптов для https://www.themoviedb.org/
+# Пакет скриптов для [themoviedb](https://www.themoviedb.org/)
+
+Для работы необходим `api_key` вашего аккаунта, который вы можете получить [здесь](https://www.themoviedb.org/settings/api).
+
+Ознакомиться с информацией об API TMDB можно [здесь](https://www.themoviedb.org/documentation/api).
+
+## Конфигурации и запуск
+
+Все скрипты написаны на языке программирование Python. 
+
+Для запуска вам необходим Python версии >= 3.8
+
+Скачайте код, и в данной директории запускайте скрипты из командной строки:
+
+- `python [scripts_name]`
 
 ## hello_api_TMDB.py
 
